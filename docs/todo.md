@@ -1,3 +1,3 @@
-- [ x ] Troubleshooting Guide
+- [x] Troubleshooting Guide
 - [ ] Add more important Utils to https://github.com/Bluejutzu/Docs/tree/main/src/content/docs/utils
 - [ ] Improve Plugin Guide
